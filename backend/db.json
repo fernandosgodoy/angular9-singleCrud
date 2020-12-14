@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell Inspiron 15'",
+      "price": 4980.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung A90",
+      "price": 1099
+    },
+    {
+      "name": "Geladeira Brastemp",
+      "price": 1670.99,
+      "id": 4
+    }
+  ]
+}
